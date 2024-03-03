@@ -17,7 +17,7 @@
 <hr width="36%" >
 
 <h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" >
+<img align="right" alt="Coding" width="300" src="https://github-readme-stats.vercel.app/api?username=achrafbouziane" >
 <br>
 
 
