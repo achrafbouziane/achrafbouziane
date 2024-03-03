@@ -17,7 +17,7 @@
 <hr width="36%" >
 
 <h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<img align="right" alt="Coding" width="300" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" >
 <br>
 
 
@@ -36,4 +36,3 @@
 <a href="https://www.instagram.com/achraf_gmg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=achrafbouziane&label=Profile%20views&color=0e75b6&style=flat" alt="achrafbouziane" /> </p>
