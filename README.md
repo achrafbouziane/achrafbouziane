@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development and cyber security**
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **achrafbouziane23@gmail.com**
+- 📫 How to reach me **achrafbouziane23@gmail.com**  
 
 - ⚡ Fun fact **I think I am funny**
 
