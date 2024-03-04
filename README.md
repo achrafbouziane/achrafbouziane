@@ -21,7 +21,7 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achrafbouziane&theme=algolia&show_icons=true" alt="achrafbouziane" /></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=achrafbouziane&theme=algolia&show_icons=true" alt="achrafbouziane" /></p>
 
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=achrafbouziane&theme=algolia&show_icons=true" alt="achrafbouziane" /></p>
