@@ -1,5 +1,4 @@
 * linguist-vendored=false
-* linguist-detectable=true
 *.js linguist-language=JavaScript
 *.py linguist-language=Python
 *.css linguist-language=Css
