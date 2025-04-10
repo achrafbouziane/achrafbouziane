@@ -35,6 +35,9 @@
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40"/>
 </a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql server" width="40" height="40"/>
+</a>
 
  </p><br>
 
